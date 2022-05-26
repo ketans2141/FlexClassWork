@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: rgba(29, 26, 26, 0.993);
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+.container1{
+    max-width: 1300px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    width: 250px;
+    border-radius: 20px;
+}
+.navbar a{
+    padding: 20px;
+   color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+.navlink:hover{
+    color: yellowgreen;
+}
+.navbar{
+    /* margin-right: 300px; */
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.btn1{
+    margin-left: 300px;
+    margin-top: 20px;
+   
+    
+}
+#btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 1px solid white;
+}
+#btn:hover{
+    color: wheat;
+    background-color: black;
+    /* border: 1px white; */
+}
+/* ========main====== */
+main{
+    background-color: rgb(68, 68, 68);
+}
+.container3{
+    max-width: 1300px;
+    margin: auto;
+}
+.img2{
+    width: 400px;
+    margin: 150px 200px 100px 200px;
+    
+}
+.boxr{
+    margin: 200px 100px 200px 0px;
+    width: 600px;
+}
+.txt1{
+    font-size: 30px;
+    color: rgb(228, 167, 0);
+    padding-bottom: 20px;
+}
+.txt2{
+    font-size: 40px;
+    color: black;
+}
+.para1{
+    color: black;
+    font-weight: 100;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.btn2{
+    padding: 10px 30px;
+    font-size: 15px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.btn2:hover{
+    color: white;
+    background-color: black;
+}
+/* ====== About Me ====== */
+.img3{
+    width: 500px;
+    margin: 200px 100px 100px 100px;
+}
+.boxpara{
+    width: 600px;
+    margin-top: 200px;
+    /* text-align: center; */
+}
+.aboutpara{
+    font-size: 20px;
+    padding: 50px;
+    color: whitesmoke;
+    
+}
+.heading1{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 50px;
+}
+.icon1{
+    padding-left: 50px;
+    font-size: 30px;
+}
+
+/* =========Our services ====== */
+.heading2{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.img4{
+    width: 250px;
+}
+.cont4{
+    width: 500px;
+    height: 800px;
+}
+.flex1{
+    display: flex;
+    flex-wrap: wrap;
+}
